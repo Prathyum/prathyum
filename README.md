@@ -4,10 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Prathyum?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prathyum_)
 
 ## I'm a Master's Student, Amateur Chef, Martial Artist and a Tech Junkie!
-
-- 🔭 I’m currently working on multiple projects!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking forward to be a part of a quality work environment. 
+- 🌱 I’m currently working on various Data Science and Javascript projects.
+- 👯 I’m looking to collaborate on interesting projects that will help me land me a kick-ass job.
+- 🤔 I’m looking out for mentor(s) that will help me grow and in turn help me add value to them later.
 - 🥅 2020 Goals: Upskill myself while evading Corona.
 - ⚡ Fun fact: I love to hike and play competitive video games.
 
@@ -22,14 +21,7 @@
 [<img align="left" alt="Prathyum | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<br >
 
 </details>
 <details>
