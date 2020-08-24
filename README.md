@@ -1,13 +1,13 @@
 ### Hey there, I'm Prathyum Ramesh 👋
 
-[![Website](https://img.shields.io/website?label=My_website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prathyum.github.io)
+[![Website](https://img.shields.io/website?label=My website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prathyum.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Prathyum?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prathyum_)
 
 ## I'm a Master's Student, Amateur Chef, Martial Artist and a Tech Junkie!
 
 - 🔭 I’m currently working on multiple projects!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking forward to be part of a quality work environment. 
+- 👯 I’m looking forward to be a part of a quality work environment. 
 - 🥅 2020 Goals: Upskill myself while evading Corona.
 - ⚡ Fun fact: I love to hike and play competitive video games.
 
