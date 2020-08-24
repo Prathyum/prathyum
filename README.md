@@ -28,10 +28,9 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.prathyum.vercel.app//api?username=prathyum&hide=contribs,stars&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathyum)](https://github.com/anuraghazra/github-readme-stats)
+  </details>
 
-
-</details>
+  [![Top Langs](https://github-readme-stats.prathyum.vercel.app/api/top-langs/?username=prathyum)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://prathyum.github.io/
 [twitter]: https://twitter.com/prathyum_
