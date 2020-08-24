@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to hike and play competitive video games.
 
 ### Spotify Playing 🎧
-[<img src="https://spotifyreadme.prathyum.vercel.app/api/spotify-playing" alt="Prathyum Spotify Playing" width="350" />](https://open.spotify.com/user/7vcd3qrq7xfqwks8a7mwa4j2o)
+[<img src="https://spotifyreadme-git-master.prathyum.vercel.app/api/spotify-playing" alt="Prathyum Spotify Playing" width="350" />](https://open.spotify.com/user/7vcd3qrq7xfqwks8a7mwa4j2o)
 
 
 ### Connect with me:
