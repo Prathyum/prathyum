@@ -13,6 +13,10 @@
 ### Spotify Playing 🎧
 [<img src="https://spotifyreadme.prathyum.vercel.app//api/spotify-playing" alt="Prathyum Spotify Playing" width="350" />](https://open.spotify.com/user/7vcd3qrq7xfqwks8a7mwa4j2o)
 
+[![Spotify](https://spotifyreadme.prathyum.vercel.app//api/spotify)](https://open.spotify.com/user/7vcd3qrq7xfqwks8a7mwa4j2o)
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="My site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
