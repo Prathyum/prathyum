@@ -1,7 +1,7 @@
 ### Hey there, I'm Prathyum Ramesh 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prathyum.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prathyum_)
+[![Website](https://img.shields.io/website?label=My_website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prathyum.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Prathyum?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prathyum_)
 
 ## I'm a Master's Student, Amateur Chef, Martial Artist and a Tech Junkie!
 
