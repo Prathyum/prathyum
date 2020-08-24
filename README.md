@@ -31,6 +31,7 @@
   </details>
 
   [![Top Langs](https://github-readme-stats.prathyum.vercel.app/api/top-langs/?username=prathyum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br >
 
 [website]: https://prathyum.github.io/
 [twitter]: https://twitter.com/prathyum_
