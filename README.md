@@ -22,6 +22,7 @@
 [<img align="left" alt="Prathyum | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
@@ -35,13 +36,10 @@
 <!--END_SECTION:activity-->
 
 </details>
-
----
-
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.prathyum.vercel.app//api?username=prathyum&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.prathyum.vercel.app//api?username=prathyum&hide=contribs,stars&show_icons=true&hide_border=true" />
 
 </details>
 
