@@ -7,7 +7,7 @@
 - 🌱 I’m currently a full-time computer science student working on various Data Science projects in the side.
 - 👯 I’m looking to collaborate on interesting projects that will help me land me a kick-ass job.
 - 🤔 I’m looking out for mentor(s) who will help me grow and in turn help me add value to them later.
-- 🥅 2020 Goals: Upskill myself while evading Corona.
+- 🥅 2021 Goals: Upskill and grow. (just like Covid-19 did)
 - ⚡ Fun fact: I love to hike and play competitive video games.
 
 ### Spotify Playing 🎧
