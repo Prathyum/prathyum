@@ -10,9 +10,6 @@
 - 🥅 2021 Goals: Upskill and grow. (just like Covid-19 did)
 - ⚡ Fun fact: I love to hike and play competitive video games.
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prathyum's Spotify Playing" width="350" />](https://open.spotify.com/user/7vcd3qrq7xfqwks8a7mwa4j2o)
-
 
 ### Connect with me:
 
