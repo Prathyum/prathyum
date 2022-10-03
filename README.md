@@ -21,10 +21,12 @@
 <br />
 <br >
 
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Prathyum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prathyum&hide=contribs,stars&show_icons=true&hide_border=true&count_private=true" />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathyum&layout=compact&exclude_repo=ML-models-practice,Heart-Disease-prediction,Alumni)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="Prathyum's Github Stats" src= />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathyum&hide=contribs,stars&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathyum&layout=compact&exclude_repo=ML-models-practice,Heart-Disease-prediction,Alumni" />
   <br >
 
 [website]: https://prathyum.github.io/
