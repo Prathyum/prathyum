@@ -22,9 +22,8 @@
 <br >
 
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Prathyum's Github Stats" src="https://github-readme-stats.prathyum.vercel.app//api?username=prathyum&hide=contribs,stars&show_icons=true&hide_border=true&count_private=true" />
-
+  [![Prathyum's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathyum&hide=contribs,stars&show_icons=true&hide_border=true&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
+  
   [![Top Langs](https://github-readme-stats.prathyum.vercel.app/api/top-langs/?username=prathyum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br >
 
