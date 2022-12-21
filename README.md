@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=My_website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prathyum.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Prathyum?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prathyum_)
 
-## I'm a Master's Student, Amateur Chef, Martial Artist and a Tech Junkie!
-- 🌱 I’m currently a full-time computer science student working on various Data Science projects in the side.
-- 👯 I’m looking to collaborate on interesting projects that will help me land me a kick-ass job.
-- 🤔 I’m looking out for mentor(s) who will help me grow and in turn help me add value to them later.
-- 🥅 2022 Goals: Upskill and grow. (just like Covid-19 did)
-- ⚡ Fun fact: I love to hike and play competitive video games.
+## I like to think of myself as an Amateur Chef, a struggling Martial Artist and a Tech Monk.
+- 🌱 As a fresh computer science master's graduate, I'm ready to take on the tech world by storm (or at least put up a good fight).
+- 👯 When I'm not busy debugging code or trying to understand why my computer won't do what I tell it to, you can find me trying (and failing) to be funny on social  media or binge-watching the latest Netflix craze
+- 🤔 My ultimate goal is to make it big in tech and be able to afford a second monitor (because one just isn't enough).
+- 🥅 Follow my journey as I navigate the world of software development, data analysis, and all things tech-related.
+- ⚡ Just don't expect too much seriousness along the way.
 
 
 ### Connect with me:
