@@ -11,4 +11,4 @@ I like figuring out where an agent stops being useful and starts being confident
 
 Away from the keyboard: amateur chef, still a struggling martial artist.
 
-[website](https://prathyum.com) · [say hi](https://twitter.com/prathyum_)
+[website](https://prathyum.com) · [linkedin](https://www.linkedin.com/in/prathyum/)
